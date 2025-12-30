@@ -12,7 +12,7 @@ Este repositório contém uma segunda lista de exercícios de JavaScript focados
 5. Função update() no Phaser.js para atualização contínua da lógica do jogo;  
 6. Propósito do módulo Matter.js Physic* no Phaser.js.
 
-### Conteúdo das questões dissertativas
+## Conteúdo das questões dissertativas
 
 7. Classificação de pedidos de uma loja online com base no valor total (frete);  
 8. Implementação de classes Veiculo, Carro e Moto com herança e cálculo de consumo;  
@@ -24,25 +24,26 @@ Este repositório contém uma segunda lista de exercícios de JavaScript focados
 Antes de começar, você precisará ter instalado:
 - [Node.js](https://nodejs.org/) (opcional, se você quiser criar scripts no terminal para testar os códigos da lista)
 - Um editor de código, como [VS Code](https://code.visualstudio.com/)
+- [Git](https://git-scm.com/) (opcional, mas útil para versionamento e envio de seus arquivos);
 - Conhecimentos básicos de JavaScript e lógica de programação
 
 ## 🖥️ Como acessar e editar os exercícios localmente
 
-1. Clone o repositório:
+1. Clone o repositório no terminal do VS Code:
 ```bash
 git clone https://github.com/luanalima77/Lista-2-Exercicios-Teoricos-e-Praticos-JavaScript-POO.git
 ```
 
-2. Navegue até a pasta do projeto:
+2. Navegue até a pasta do projeto com o seguinte código no terminal do VS Code:
 ```
 cd Lista-2-Exercicios-Teoricos-e-Praticos-JavaScript-POO
 ```
 
-3. Acesse o arquivo lista_02.md em um editor de sua preferência, como Visual Studio Code.
+3. Acesse o arquivo lista_02.md.
 
 ## 💡 Dicas para testar os códigos da lista
 ### Usando Node.js
-1. Instale o Node.js se ainda não tiver;  
+1. Instale o Node.js se ainda não tiver (como mencionado nos pré-requisitos);  
 2. Crie um arquivo .js temporário, por exemplo teste.js;  
 3. Copie os trechos de código do arquivo lista_02.md para esse arquivo;  
 4. Execute no terminal do VS Code:
