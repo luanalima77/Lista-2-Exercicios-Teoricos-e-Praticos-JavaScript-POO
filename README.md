@@ -10,7 +10,7 @@ Este repositório contém uma segunda lista de exercícios de JavaScript focados
 3. Estrutura condicional if/else para classificação de idade;  
 4. Simulação de consumo de energia com arrays e condicionais;  
 5. Função update() no Phaser.js para atualização contínua da lógica do jogo;  
-6. Propósito do módulo Matter.js Physic* no Phaser.js.
+6. Propósito do módulo Matter.js Physic no Phaser.js.
 
 ## Conteúdo das questões dissertativas
 
